@@ -13,7 +13,7 @@ I currently have three laptops for this.  One is purely for travel gaming as an 
 
 The others are, on the higher end, a Dell Inspiron 5577 version 1.09, and a lower end backup (and travel) machine, a Hewlett-Packard EliteBook 8460w version A0001D02.
 
-Product information can be found easily with 
+Product information can be found easily with
 
 ~~~
 sudo dmidecode | grep -A3 '^System Information'
@@ -52,7 +52,9 @@ I want to avoid adding any plugins to Vim directly, though I make make changes t
 
 ## Installed Items
 
+Installed Pandoc and cloned [Pandoc Book Template] for writing.
 
+[Pandoc Book Template]: (https://github.com/wikiti/pandoc-book-template)
 
 ## Removed Items
 
