@@ -50,6 +50,9 @@ Initial setup is for [LARBS](https://github.com/LukeSmithxyz/LARBS) which suits 
 
 I want to avoid adding any plugins to Vim directly, though I make make changes to particular settings.  Previous vim setups have become far too clunky, and many of the tools that I did need are available as tools that I can invoke from the terminal already.  Any changes to vimrc from the LARBS baseline will be reflected in this repo.
 
+Not happy with the LARBS vimrc.  Just does not work well for my purposes.  Went
+ahead and added Neovim and made a custom rc.
+
 ## Installed Items
 
 Installed Pandoc and cloned [Pandoc Book Template] for writing.
