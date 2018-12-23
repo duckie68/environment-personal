@@ -62,3 +62,7 @@ The output can be customized using a configuration file as --config parameter.
 
 Upload configs for script, shooting script, dialogue... whatever I can come up
 with.
+
+## Changes
+
+AUR install did not work.  Install from git @ https://github.com/ifrost/afterwriting-labs
