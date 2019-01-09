@@ -59,6 +59,12 @@ Installed Pandoc and cloned [Pandoc Book Template] for writing.
 
 [Pandoc Book Template]: (https://github.com/wikiti/pandoc-book-template)
 
+Added [um] for personalized manpages.
+[um]: (https://github.com/sinclairtarget/um)
+
+Added [sexy-bash-prompt] for better git handling.
+[sexy-bash-prompt]: (https://github.com/twolfson/sexy-bash-prompt)
+
 ## Removed Items
 
 
